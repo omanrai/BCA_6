@@ -1,4 +1,5 @@
 import 'package:bca_6/controller/counter_controller.dart';
+import 'package:bca_6/dog/dog_list_page.dart';
 import 'package:bca_6/id_card.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -92,15 +93,12 @@ class CounterApp extends StatelessWidget {
             child: Text("Go to Student ID card"),
           ),
 
-          // ElevatedButton(
-          //   onPressed: () {
-          //     Navigator.push(
-          //       context,
-          //       MaterialPageRoute(builder: (context) => DogListPage()),
-          //     );
-          //   },
-          //   child: Text("Go to Cat List Page"),
-          // ),
+          ElevatedButton(
+            onPressed: () {
+              Get.to(() => DogListPage());
+            },
+            child: Text("Go to Dog List Page"),
+          ),
         ],
       ),
     );
