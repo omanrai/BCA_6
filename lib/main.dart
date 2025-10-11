@@ -1,4 +1,5 @@
-import 'package:bca_6/count_app.dart';
+// import 'package:bca_6/count_app.dart';
+import 'package:bca_6/view/count_app.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -24,7 +25,4 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// Navigator.push(
-//   context,
-//   MaterialPageRoute(builder: (context) => SecondPage()),
-// );
+

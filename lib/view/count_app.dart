@@ -1,6 +1,7 @@
 import 'package:bca_6/controller/counter_controller.dart';
 import 'package:bca_6/dog/dog_list_page.dart';
-import 'package:bca_6/id_card.dart';
+import 'package:bca_6/view/id_card.dart';
+// import 'package:bca_6/id_card.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
