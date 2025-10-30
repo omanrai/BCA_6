@@ -80,16 +80,16 @@ class CounterApp extends StatelessWidget {
               //   ),
               // );
 
-              // Get.defaultDialog(
-              //   title: "Student ID Card",
-              //   content: Text("This is the student ID card."),
-              //   confirm: ElevatedButton(
-              //     onPressed: () {
-              //       Get.back();
-              //     },
-              //     child: Text("Back"),
-              //   ),
-              // );
+              Get.defaultDialog(
+                title: "Student ID Card",
+                content: Text("This is the student ID card."),
+                confirm: ElevatedButton(
+                  onPressed: () {
+                    Get.back();
+                  },
+                  child: Text("Back"),
+                ),
+              );
             },
             child: Text("Go to Student ID card"),
           ),
