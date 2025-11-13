@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class StudentIDScreen extends StatelessWidget {
   // const StudentIDScreen({super.key});
   final List<String> StudentDetails = [
-    "Aryan",
+    "Aryan shah",
     "BCA 6th Sem",
     "1",
     "+977 9804055044",
