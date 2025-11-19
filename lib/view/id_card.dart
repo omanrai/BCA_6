@@ -14,7 +14,7 @@ class StudentIDScreen extends StatelessWidget {
     "Name": "Aryan Tiwari",
     "Class": "BCA 6th Sem",
     "Roll No": "2",
-    "Contact No": "+977 9804055044",
+    "Contact No": "+977 9804035120",
   };
 
   final List<Map<String, dynamic>> students = [
