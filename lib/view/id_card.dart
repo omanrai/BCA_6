@@ -28,12 +28,12 @@ class StudentIDScreen extends StatelessWidget {
       "Name": "John Chamling Rai",
       "Class": "BCA 5th Sem",
       "Roll No": 2,
-      "Contact No": "+977 980405045",
+      "Contact No": "+977 980405044",
     },
     {
       "Name": "Jane Chaudhary",
       "Class": "BCA 4th Sem",
-      "Roll No": 3,
+      "Roll No": 32425,
       "Contact No": "+977 9804055046",
     },
   ];
@@ -42,7 +42,7 @@ class StudentIDScreen extends StatelessWidget {
     StudentIdModel(
       name: "Aryan",
       className: "BCA 6th Sem",
-      rollNo: 1,
+      rollNo: 1453453,
       contactNo: "+977 9804055044",
       imagePath: 'assets/s1.png',
     ),
