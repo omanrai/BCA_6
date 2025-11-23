@@ -13,7 +13,7 @@ class StudentIDScreen extends StatelessWidget {
   final Map<String, String> studentInfo = {
     "Name": "Aryan Tiwari",
     "Class": "BCA 6th Sem",
-    "Roll No": "2",
+    "Roll No": "25465",
     "Contact No": "+977 9804035120",
   };
 
