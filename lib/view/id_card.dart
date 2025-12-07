@@ -27,8 +27,8 @@ class StudentIDScreen extends StatelessWidget {
     {
       "Name": "John Chamling Rai",
       "Class": "BCA 5th Sem",
-      "Roll No": 233543,
-      "Contact No": "+977 980405044",
+      "Roll No": 23354,
+      "Contact No": "+977 98040504",
     },
     {
       "Name": "Jane Chaudhary",
